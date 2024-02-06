@@ -33,10 +33,3 @@ body {
     background-color: white;
     border-radius: 10px;
 }
-
-#img {
-    position: absolute;
-    left: 50%;
-    margin-top: 15%;
-    transform: translate(-50%, -50%);
-}

@@ -1,0 +1,42 @@
+
+body {
+    background-image: url("../img/coeur.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titre {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+}
+
+.tit {
+    margin-top: 5%;
+}
+
+.ann {
+    color: white;
+}
+
+.ann_2 {
+    color: red;
+}
+
+#button  {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#img {
+    position: absolute;
+    left: 50%;
+    margin-top: 15%;
+    transform: translate(-50%, -50%);
+}
